@@ -1,0 +1,209 @@
+body {
+  text-align: center;
+  color: #000f08;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font-family: "Opens Sans", sans-serif;
+}
+
+.oscuro {
+  background: #000f08;
+  color: #fff;
+}
+
+.oscuro a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.sweet-brown {
+  text-align: left;
+  background-color: #a4452c;
+  color: #fff;
+  padding: 50px;
+  white-space: nowrap;
+}
+
+.hero-section {
+  text-align: right;
+  background-image: url("../img/bg-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-shadow: 0.125em 0.25em 0.125em #707070;
+  padding: 3.125rem 3.125rem;
+}
+
+section,
+footer {
+  margin-top: 75px;
+}
+
+footer {
+  padding: 50px;
+}
+
+.charla-speaker,
+.charla-texto,
+.evento {
+  display: inline-block;
+}
+
+.evento {
+  margin: 0 70px;
+}
+.centrado {
+  width: 75%;
+  margin: 0 auto;
+  /* background-color: #cac8c8; */
+}
+/* cambié el color de background para ver el tamaño del div */
+
+/* .charla-texto {
+  background-color: blueviolet;
+} */
+
+/* cambié el color de background para ver el tamaño del div */
+
+.charla-speaker {
+  width: 25%;
+  vertical-align: middle;
+}
+
+.charla-texto {
+  width: 72.5%;
+  vertical-align: middle;
+  margin-left: 2.5%;
+  white-space: normal;
+}
+
+.icono {
+  width: 2rem;
+}
+
+.icono svg {
+  fill: #fff;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 3.75em;
+  margin-bottom: 0.25em;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+h4 {
+  font-size: 1.75em;
+  font-weight: 400;
+}
+
+h5 {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+#subtitulo {
+  font-weight: 400;
+}
+
+#ubicacion h2 {
+  margin: 1em auto;
+}
+
+.sweet-brown h3,
+.sweet-brown h5 {
+  margin-bottom: 0.5em;
+}
+
+#eventos h2 {
+  margin-bottom: 1em;
+}
+
+#eventos h3 {
+  margin: 1em auto;
+}
+
+nav {
+  text-align: left;
+  padding: 1.25rem 4rem;
+  /* position: fixed; */
+  width: 100vw;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 1em;
+  vertical-align: middle;
+}
+
+footer i {
+  margin: 0 0.25em 0.5em 0.25em;
+}
+
+.link-simposio a {
+  color: #000f08;
+  text-decoration: none;
+}
+
+/* h2 {
+  text-align: center;
+  color: royalblue;
+}
+
+.verde {
+  color: seagreen;
+}
+
+.centrado {
+  text-align: center;
+}
+
+#subtitulo {
+  text-align: right;
+  color: blanchedalmond;
+} */
+
+/* EVENTO 01 STYLING SHEET */
+.seccion-unica {
+  /* background-color: rosybrown; */
+  margin-bottom: 200px;
+}
+
+.titulo {
+  font-size: 2.3em;
+  font-weight: 700;
+  text-align: left;
+  padding: 0 500px;
+  margin-bottom: 50px;
+}
+
+.subtitulo {
+  font-size: 2em;
+  text-align: left;
+  padding: 0 500px;
+}
+
+.seccion-unica p {
+  /* background-color: salmon; */
+  padding: 0 500px;
+  text-align: justify;
+  font-size: 1.5em;
+  line-height: 1.6;
+}
+
+.imagen {
+  margin-bottom: 50px;
+}
